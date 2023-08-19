@@ -1,5 +1,5 @@
-print("MOCNINATOR?")
-print("-----------")
+print("MOCNINATOR")
+print("----------")
 
 vypis = "{i} na druhou je {naDruhou}"
 
